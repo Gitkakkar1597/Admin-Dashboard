@@ -1,1 +1,1 @@
-# Edutron
+# FinTron
