@@ -1,1 +1,1 @@
-# Finance Dashboard
+# Analytical Dashboard
