@@ -1,1 +1,1 @@
-# Analytical Dashboard
+# Administrative Dashboard
